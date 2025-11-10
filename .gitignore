@@ -1,0 +1,49 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+env/
+ENV/
+.venv
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Project specific
+*.log
+*.pcap
+*.cap
+captures/
+logs/
+reports/private/
+
+# Sensitive data
+*.key
+*.pem
+*.crt
+secrets/
+credentials/
+.env
+config.ini
+
+# Test data
+test_results/
+exploits/working/
+
+# Compiled
+*.pyc
+dist/
+build/
+*.egg-info/
+
