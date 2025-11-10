@@ -34,7 +34,7 @@ git commit -m "Initial commit: Red Team vs Blue Team cybersecurity project"
 ```bash
 # Add your GitHub repository as remote
 # Replace USERNAME and REPO_NAME with your actual values
-git remote add origin https://github.com/USERNAME/REPO_NAME.git
+git remote add origin https://github.com/hohiphop1234/red-team-blue-team-cybersecurity.git
 
 # Rename branch to main (if needed)
 git branch -M main
